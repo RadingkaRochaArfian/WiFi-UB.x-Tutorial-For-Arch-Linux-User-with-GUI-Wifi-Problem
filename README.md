@@ -34,7 +34,7 @@ key-mgmt=wpa-eap
 
 [802-1x]
 eap=peap;
-identity=255150200111014
+identity=255150200
 password-flags=1
 phase2-auth=mschapv2
 [ipv4]
@@ -68,7 +68,7 @@ key-mgmt=wpa-eap
 
 [802-1x]
 eap=peap;
-identity=255150200111014
+identity=255150200
 password-flags=1
 phase2-auth=mschapv2
 phase1-auth-flags=32
@@ -80,9 +80,7 @@ addr-gen-mode=stable-privacy
 method=auto
 
 [proxy]
- ```
->Keep in mind do not add space after "phase1-auth-flags=32"
->
+ ```  
 >Save and leave nano: Ctrl+o (save) click enter then Ctrl+x (Exit)
 
 ## Step 3: Reconnecting
