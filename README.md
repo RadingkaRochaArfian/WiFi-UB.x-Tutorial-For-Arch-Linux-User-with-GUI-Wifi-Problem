@@ -86,3 +86,5 @@ method=auto
 ## Step 3: Reconnecting
 
 >Try to reconnect back to wifi and it should connect your device to WiFi-UB.x
+
+Source : https://forum.endeavouros.com/t/unable-to-connect-to-school-enterprise-network-works-in-linux-mint-installer/46928
